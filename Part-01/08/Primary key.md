@@ -374,16 +374,3 @@ Examples:
 Almost every table should have a primary key.
 
 ---
-
-# Key Concepts Learned
-
-In this lesson you learned:
-
-- PRIMARY KEY
-- SERIAL
-- unique row identification
-- auto-increment IDs
-- querying rows by ID
-- why primary keys matter
-- safe UPDATE and DELETE operations
-- table row uniqueness

@@ -420,17 +420,3 @@ Even if someone gets past backend validation:
 Database still protects the data.
 
 ---
-
-# Key Concepts Learned
-
-In this lesson you learned:
-
-- PRIMARY KEY
-- SERIAL
-- NOT NULL
-- UNIQUE
-- DEFAULT
-- CHECK
-- automatic timestamps
-- database-level validation
-- why constraints matter

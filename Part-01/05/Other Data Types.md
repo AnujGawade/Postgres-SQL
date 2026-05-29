@@ -549,19 +549,3 @@ browser
 ```
 
 ---
-
-# Key Concepts Learned
-
-In this lesson you learned:
-
-- UUID
-- `gen_random_uuid()`
-- JSONB
-- default JSON values
-- inserting JSON data
-- querying JSON
-- `->`
-- `->>`
-- JSON key existence check (`?`)
-- filtering JSON data
-- advanced PostgreSQL data types

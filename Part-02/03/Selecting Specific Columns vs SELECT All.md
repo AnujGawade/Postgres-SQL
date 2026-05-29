@@ -266,15 +266,3 @@ Especially in:
 - large databases
 
 ---
-
-# Key Concepts Learned
-
-In this lesson you learned:
-
-- `SELECT *`
-- selecting specific columns
-- query optimization basics
-- column aliases
-- `AS` keyword
-- readable query output
-- why avoiding unnecessary data matters

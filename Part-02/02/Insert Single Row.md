@@ -292,17 +292,3 @@ Because double quotes are used for:
 - identifiers
 
 ---
-
-# Key Concepts Learned
-
-In this lesson you learned:
-
-- INSERT INTO
-- VALUES
-- inserting rows
-- mapping values to columns
-- product data insertion
-- SKU usage
-- numeric values
-- string values
-- importance of column order

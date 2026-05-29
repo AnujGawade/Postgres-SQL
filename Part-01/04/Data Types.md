@@ -487,21 +487,3 @@ Product C
 ```
 
 ---
-
-# Key Concepts Learned
-
-In this lesson you learned:
-
-- PostgreSQL data types
-- VARCHAR
-- TEXT
-- INTEGER
-- BIGINT
-- NUMERIC
-- BOOLEAN
-- DEFAULT values
-- INSERT INTO
-- SELECT \*
-- Selecting specific columns
-- WHERE filtering
-- Auto-increment primary keys

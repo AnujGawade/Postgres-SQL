@@ -339,20 +339,3 @@ Examples:
 Without constraints, bad data can easily enter the database.
 
 ---
-
-## Key Concepts Learned
-
-In this lesson you learned:
-
-- Creating tables
-- Defining columns
-- Data types
-- Primary keys
-- Auto-incrementing IDs
-- Required fields (`NOT NULL`)
-- Unique values (`UNIQUE`)
-- Validation rules (`CHECK`)
-- Default values (`DEFAULT`)
-- Inserting records
-- Bulk inserting multiple rows
-- Querying data with `SELECT`

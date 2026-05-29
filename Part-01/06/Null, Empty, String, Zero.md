@@ -327,15 +327,3 @@ User profile:
 Same-looking "empty" values, different meanings.
 
 ---
-
-# Key Concepts Learned
-
-In this lesson you learned:
-
-- NULL values
-- empty strings
-- numeric zero
-- querying NULL with `IS NULL`
-- querying empty strings
-- querying numeric values
-- difference between unknown and empty values
