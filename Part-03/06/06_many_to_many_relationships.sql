@@ -1,4 +1,4 @@
--- MANY TO MANY
+-- MANY TO MANY RELATIONSHIP
 
 -- One post can have multiple tags
 -- one tag can be associated with multiple posts.
